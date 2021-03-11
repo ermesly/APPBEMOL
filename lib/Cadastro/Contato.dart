@@ -195,7 +195,7 @@ class _pate2State extends State<pate2> {
                                     mainAxisSize: MainAxisSize.min,
                                     children: <Widget>[
                                       Text(
-                                        'Próximo',
+                                        'next',
                                         style: TextStyle(
                                           color: Colors.white,
                                           fontSize: 22.0,
